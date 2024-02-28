@@ -8,11 +8,11 @@
         "systems": "systems"
       },
       "locked": {
-        "lastModified": 1708946845,
-        "narHash": "sha256-2V4Tdob+h/h1PY73oB3bENTdeG85ol7J1EtaYVFGMUE=",
+        "lastModified": 1709117541,
+        "narHash": "sha256-1AKemCfdDknjWzgciLsiT0uPy9qDW8Cb5/KYXx3WgQE=",
         "owner": "HamelinDavid",
         "repo": "emacs-manager",
-        "rev": "da4efea0ceb9301892965344ae3652f6207be4e4",
+        "rev": "ae12b2cb40687b858085b3eb95963455c909ac7c",
         "type": "github"
       },
       "original": {
@@ -23,8 +23,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1708001613,
-        "narHash": "sha256-woOmAXW05XnqlLn7dKzCkRAEOSOdA/Z2ndVvKcjid94=",
+        "lastModified": 1709069307,
+        "narHash": "sha256-ER6N232jucnqu4+AK80RdmgBDuk61FAqmp36EMqkQns=",
         "owner": "NixOS",
         "repo": "nixpkgs",
         "rev": "a4d4fe8c5002202493e87ec8dbc91335ff55552c",
