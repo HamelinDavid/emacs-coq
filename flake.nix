@@ -10,7 +10,7 @@
     };
 
     systems = {
-      url = "github:nix-systems/x86_64-linux";
+      url = "github:nix-systems/default";
       flake = false;
     };
   };
